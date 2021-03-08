@@ -1,6 +1,5 @@
 # ENAS-PdM
-<img src="cnnlstm.png" width="800">
-![](cnnlstm.png)
+![](cnnlstm.png){width=50%}
 ENAS-PdM is a custom Evolutionary Algorithm specifically designed to optimize a Deep Network architecture used to predict the Remaining Useful Life (RUL) for predictive maintenance (PdM). Based on our [previous work](https://ieeexplore.ieee.org/abstract/document/9211058/), the goal of this study is to find the best multi-head Convolutional Neural Network with Long Short Term Memory (CNN-LSTM) architecture for the RUL prediction. For that, we use evolutionary search to explore the combinatorial parameter space of a multi-head CNN-LSTM as shown below figure. 
 <p align="center">
   <img height="600" src="/cnn_c.png">

@@ -46,7 +46,7 @@ Best individual is saved
 37873.60605573654
 ```
 <p align="center">
-  <img height="200" src="/ea_boxplots.png">
+  <img height="150" src="/ea_boxplots.png">
 </p>
 
 

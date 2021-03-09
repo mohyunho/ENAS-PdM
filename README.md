@@ -18,6 +18,9 @@ The ENAS-PdM library has the following dependencies:
 - matplotlib
 
 ## Descriptions
+- network_training.py: class for network generation and training
+- 
+- evolutionary_algorithm.py: implementations of evolutionary algorithms to evolve neural networks in the context of predictive mainteinance
 
 
 ## Run

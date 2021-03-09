@@ -21,20 +21,34 @@ pip install -r py_pkg_requirements.txt
 - matplotlib
 
 ## Descriptions
-- launcher.py: Launcher for the experiments
-  - evolutionary_algorithm.py: implementations of evolutionary algorithms to evolve neural networks in the context of predictive mainteinance
-  - task.py: implementation of a Task, used to load the data and compute the fitness of an individual
-  - utils.py: generating the multi-head CNN-LSTM network & training the network
-    - network_training.py: class for network generation and training
-    - ts_preprocessing.py: class for preprocessing and data preparation
-    - ts_window.py: class for time series window application
-
-
+- launcher.py: launcher for the experiments.
+  - evolutionary_algorithm.py: implementations of evolutionary algorithms to evolve neural networks in the context of predictive mainteinance.
+  - task.py: implementation of a Task, used to load the data and compute the fitness of an individual.
+  - utils.py: generating the multi-head CNN-LSTM network & training the network.
+    - network_training.py: class for network generation and training.
+    - ts_preprocessing.py: class for preprocessing and data preparation.
+    - ts_window.py: class for time series window application.
+- experiments.py: Evaluation of the discovered network by ENAS-PdM on unobserved data during EA & Training.
 
 ## Run
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Please launch ENAS-PdM by 
+```bash
+python3 launcher.py
+```
+After each generation, the information of the best individual is displayed
+```bash
+50      11      11.5005 0.153568        11.2976 11.9282
+pickle dump
+log saved
+Best individual:
+[2, 4, 1, 13, 12]
+Best individual is saved
+37873.60605573654
+```
+<p align="center">
+  <img height="400" src="/ea_boxplots.png">
+</p>
 
-Please make sure to update tests as appropriate.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)

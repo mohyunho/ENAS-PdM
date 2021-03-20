@@ -52,9 +52,14 @@ Best individual is saved
 
 ## References
 ```
-H. Mo, F. Lucca, J. Malacarne and G. Iacca, "Multi-Head CNN-LSTM with Prediction Error Analysis for Remaining Useful Life Prediction," 2020 27th Conference of Open Innovations Association (FRUCT), Trento, Italy, 2020, pp. 164-171, doi: 10.23919/FRUCT49677.2020.9211058.
+H. Mo, F. Lucca, J. Malacarne and G. Iacca, 
+"Multi-Head CNN-LSTM with Prediction Error Analysis for Remaining Useful Life Prediction," 
+2020 27th Conference of Open Innovations Association (FRUCT), 
+Trento, Italy, 2020, pp. 164-171, doi: 10.23919/FRUCT49677.2020.9211058.
 ```
 
 ```
-H. Mo, L. Custode and G. Iacca, "Evolutionary Neural Architecture Search\\for Remaining Useful Life Prediction," submitted to Applied Soft Computing, 2021.
+H. Mo, L. Custode and G. Iacca, 
+"Evolutionary Neural Architecture Search\\for Remaining Useful Life Prediction," 
+submitted to Applied Soft Computing, 2021.
 ```

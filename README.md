@@ -60,6 +60,6 @@ Trento, Italy, 2020, pp. 164-171, doi: 10.23919/FRUCT49677.2020.9211058.
 
 ```
 H. Mo, L. Custode and G. Iacca, 
-"Evolutionary Neural Architecture Search\\for Remaining Useful Life Prediction," 
+"Evolutionary Neural Architecture Search for Remaining Useful Life Prediction," 
 submitted to Applied Soft Computing, 2021.
 ```

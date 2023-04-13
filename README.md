@@ -66,3 +66,27 @@ Volume 108, 2021, 107474,ISSN 1568-4946,
 https://doi.org/10.1016/j.asoc.2021.107474.
 
 ```
+
+Bibtex entry ready to be cited
+```
+@inproceedings{mo2020multi,
+  title={Multi-head CNN-LSTM with prediction error analysis for remaining useful life prediction},
+  author={Mo, Hyunho and Lucca, Federico and Malacarne, Jonni and Iacca, Giovanni},
+  booktitle={2020 27th conference of open innovations association (FRUCT)},
+  pages={164--171},
+  year={2020},
+  organization={IEEE}
+}
+```
+
+```
+@article{mo2021evolutionary,
+  title={Evolutionary neural architecture search for remaining useful life prediction},
+  author={Mo, Hyunho and Custode, Leonardo Lucio and Iacca, Giovanni},
+  journal={Applied Soft Computing},
+  volume={108},
+  pages={107474},
+  year={2021},
+  publisher={Elsevier}
+}
+```
